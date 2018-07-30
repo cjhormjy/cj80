@@ -5566,8 +5566,8 @@
     </rating>
   </programme>
   <programme start="20180801060000 +0900" stop="20180801071500 +0900" channel="85">
-    <title lang="kr">건강식품</title>
-    <desc lang="kr">건강식품
+    <title lang="kr">레포츠의류</title>
+    <desc lang="kr">레포츠의류
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -5577,17 +5577,6 @@
     </rating>
   </programme>
   <programme start="20180801071500 +0900" stop="20180801081500 +0900" channel="85">
-    <title lang="kr">보험</title>
-    <desc lang="kr">보험
-장르 : 홈쇼핑
-등급 : 전체 관람가</desc>
-    <category lang="kr">홈쇼핑</category>
-    <category lang="en">Advertisement / Shopping</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801081500 +0900" stop="20180801092500 +0900" channel="85">
     <title lang="kr">생활용품</title>
     <desc lang="kr">생활용품
 장르 : 홈쇼핑
@@ -5598,9 +5587,20 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
+  <programme start="20180801081500 +0900" stop="20180801092500 +0900" channel="85">
+    <title lang="kr">의류</title>
+    <desc lang="kr">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="kr">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
   <programme start="20180801092500 +0900" stop="20180801102500 +0900" channel="85">
-    <title lang="kr">잡화</title>
-    <desc lang="kr">잡화
+    <title lang="kr">헤어/미용기구</title>
+    <desc lang="kr">헤어/미용기구
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -5621,8 +5621,8 @@
     </rating>
   </programme>
   <programme start="20180801113500 +0900" stop="20180801124000 +0900" channel="85">
-    <title lang="kr">속옷</title>
-    <desc lang="kr">속옷
+    <title lang="kr">건강식품</title>
+    <desc lang="kr">건강식품
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -5631,29 +5631,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801124000 +0900" stop="20180801132000 +0900" channel="85">
-    <title lang="kr">생활용품</title>
-    <desc lang="kr">생활용품
-장르 : 홈쇼핑
-등급 : 전체 관람가</desc>
-    <category lang="kr">홈쇼핑</category>
-    <category lang="en">Advertisement / Shopping</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801132000 +0900" stop="20180801134000 +0900" channel="85">
-    <title lang="kr">생활용품</title>
-    <desc lang="kr">생활용품
-장르 : 홈쇼핑
-등급 : 전체 관람가</desc>
-    <category lang="kr">홈쇼핑</category>
-    <category lang="en">Advertisement / Shopping</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801134000 +0900" stop="20180801144000 +0900" channel="85">
+  <programme start="20180801124000 +0900" stop="20180801134000 +0900" channel="85">
     <title lang="kr">주방용품</title>
     <desc lang="kr">주방용품
 장르 : 홈쇼핑
@@ -5664,7 +5642,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801144000 +0900" stop="20180801151000 +0900" channel="85">
+  <programme start="20180801134000 +0900" stop="20180801144000 +0900" channel="85">
     <title lang="kr">침구</title>
     <desc lang="kr">침구
 장르 : 홈쇼핑
@@ -5675,40 +5653,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801151000 +0900" stop="20180801154000 +0900" channel="85">
-    <title lang="kr">생활용품</title>
-    <desc lang="kr">생활용품
-장르 : 홈쇼핑
-등급 : 전체 관람가</desc>
-    <category lang="kr">홈쇼핑</category>
-    <category lang="en">Advertisement / Shopping</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801154000 +0900" stop="20180801164000 +0900" channel="85">
-    <title lang="kr">보험</title>
-    <desc lang="kr">보험
-장르 : 홈쇼핑
-등급 : 전체 관람가</desc>
-    <category lang="kr">홈쇼핑</category>
-    <category lang="en">Advertisement / Shopping</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801164000 +0900" stop="20180801174000 +0900" channel="85">
-    <title lang="kr">일반식품</title>
-    <desc lang="kr">일반식품
-장르 : 홈쇼핑
-등급 : 전체 관람가</desc>
-    <category lang="kr">홈쇼핑</category>
-    <category lang="en">Advertisement / Shopping</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801174000 +0900" stop="20180801184000 +0900" channel="85">
+  <programme start="20180801144000 +0900" stop="20180801154000 +0900" channel="85">
     <title lang="kr">레포츠의류</title>
     <desc lang="kr">레포츠의류
 장르 : 홈쇼핑
@@ -5719,9 +5664,42 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
+  <programme start="20180801154000 +0900" stop="20180801164000 +0900" channel="85">
+    <title lang="kr">일반식품</title>
+    <desc lang="kr">일반식품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="kr">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801164000 +0900" stop="20180801174000 +0900" channel="85">
+    <title lang="kr">보험</title>
+    <desc lang="kr">보험
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="kr">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801174000 +0900" stop="20180801184000 +0900" channel="85">
+    <title lang="kr">일반식품</title>
+    <desc lang="kr">일반식품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="kr">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
   <programme start="20180801184000 +0900" stop="20180801193500 +0900" channel="85">
-    <title lang="kr">렌탈</title>
-    <desc lang="kr">렌탈
+    <title lang="kr">이미용</title>
+    <desc lang="kr">이미용
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -5742,8 +5720,8 @@
     </rating>
   </programme>
   <programme start="20180801214000 +0900" stop="20180801224000 +0900" channel="85">
-    <title lang="kr">보험</title>
-    <desc lang="kr">보험
+    <title lang="kr">속옷</title>
+    <desc lang="kr">속옷
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -5753,8 +5731,8 @@
     </rating>
   </programme>
   <programme start="20180801224000 +0900" stop="20180801234500 +0900" channel="85">
-    <title lang="kr">잡화</title>
-    <desc lang="kr">잡화
+    <title lang="kr">일반가전</title>
+    <desc lang="kr">일반가전
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -12903,7 +12881,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730002000 +0900" stop="20180730015000 +0900" channel="207">
+  <programme start="20180730001000 +0900" stop="20180730013500 +0900" channel="207">
     <title lang="kr">미스터 션샤인</title>
     <desc lang="kr">미스터 션샤인
 장르 : 드라마
@@ -12914,7 +12892,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730015000 +0900" stop="20180730032000 +0900" channel="207">
+  <programme start="20180730013500 +0900" stop="20180730030200 +0900" channel="207">
     <title lang="kr">대탈출</title>
     <desc lang="kr">대탈출
 장르 : 연예/오락
@@ -12925,7 +12903,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730032000 +0900" stop="20180730050000 +0900" channel="207">
+  <programme start="20180730030200 +0900" stop="20180730043400 +0900" channel="207">
     <title lang="kr">갈릴레오:깨어난 우주</title>
     <desc lang="kr">갈릴레오:깨어난 우주
 장르 : 연예/오락
@@ -12936,7 +12914,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730050000 +0900" stop="20180730060000 +0900" channel="207">
+  <programme start="20180730043400 +0900" stop="20180730054500 +0900" channel="207">
     <title lang="kr">코미디 빅리그</title>
     <desc lang="kr">코미디 빅리그
 장르 : 연예/오락
@@ -12947,7 +12925,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730060000 +0900" stop="20180730063000 +0900" channel="207">
+  <programme start="20180730054500 +0900" stop="20180730063900 +0900" channel="207">
     <title lang="kr">스트리트 푸드파이터 미식로드</title>
     <desc lang="kr">스트리트 푸드파이터 미식로드
 장르 : 연예/오락
@@ -12958,7 +12936,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730063000 +0900" stop="20180730075000 +0900" channel="207">
+  <programme start="20180730063900 +0900" stop="20180730075100 +0900" channel="207">
     <title lang="kr">김비서가 왜 그럴까</title>
     <desc lang="kr">김비서가 왜 그럴까
 장르 : 드라마
@@ -12969,7 +12947,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730075000 +0900" stop="20180730091000 +0900" channel="207">
+  <programme start="20180730075100 +0900" stop="20180730090600 +0900" channel="207">
     <title lang="kr">김비서가 왜 그럴까</title>
     <desc lang="kr">김비서가 왜 그럴까
 장르 : 드라마
@@ -12980,7 +12958,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730091000 +0900" stop="20180730105000 +0900" channel="207">
+  <programme start="20180730090600 +0900" stop="20180730105400 +0900" channel="207">
     <title lang="kr">꽃보다 할배 리턴즈</title>
     <desc lang="kr">꽃보다 할배 리턴즈
 장르 : 연예/오락
@@ -12991,7 +12969,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730105000 +0900" stop="20180730122000 +0900" channel="207">
+  <programme start="20180730105400 +0900" stop="20180730122400 +0900" channel="207">
     <title lang="kr">미스터 션샤인</title>
     <desc lang="kr">미스터 션샤인
 장르 : 드라마
@@ -13002,7 +12980,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730122000 +0900" stop="20180730135000 +0900" channel="207">
+  <programme start="20180730122400 +0900" stop="20180730134900 +0900" channel="207">
     <title lang="kr">미스터 션샤인</title>
     <desc lang="kr">미스터 션샤인
 장르 : 드라마
@@ -13013,7 +12991,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730135000 +0900" stop="20180730152000 +0900" channel="207">
+  <programme start="20180730134900 +0900" stop="20180730152200 +0900" channel="207">
     <title lang="kr">짠내투어</title>
     <desc lang="kr">짠내투어
 장르 : 연예/오락
@@ -13024,7 +13002,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730152000 +0900" stop="20180730165000 +0900" channel="207">
+  <programme start="20180730152200 +0900" stop="20180730170200 +0900" channel="207">
     <title lang="kr">놀라운 토요일</title>
     <desc lang="kr">놀라운 토요일
 장르 : 연예/오락
@@ -13035,7 +13013,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730165000 +0900" stop="20180730183000 +0900" channel="207">
+  <programme start="20180730170200 +0900" stop="20180730183000 +0900" channel="207">
     <title lang="kr">이타카로 가는 길</title>
     <desc lang="kr">이타카로 가는 길
 장르 : 연예/오락
@@ -13453,13 +13431,46 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730004000 +0900" stop="20180730080000 +0900" channel="281">
+  <programme start="20180730004000 +0900" stop="20180730060000 +0900" channel="281">
     <title lang="kr">황금 나침반</title>
     <desc lang="kr">황금 나침반
 장르 : 교양/정보
 등급 : 전체 관람가</desc>
     <category lang="kr">교양/정보</category>
     <category lang="en">Arts / Culture (without music)</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180730060000 +0900" stop="20180730070000 +0900" channel="281">
+    <title lang="kr">채널A스페셜 산시성: 중국의 위대한 관문</title>
+    <desc lang="kr">채널A스페셜 산시성: 중국의 위대한 관문
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180730070000 +0900" stop="20180730073000 +0900" channel="281">
+    <title lang="kr">토이캅</title>
+    <desc lang="kr">토이캅
+장르 : 만화
+등급 : 전체 관람가</desc>
+    <category lang="kr">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180730073000 +0900" stop="20180730080000 +0900" channel="281">
+    <title lang="kr">토이캅</title>
+    <desc lang="kr">토이캅
+장르 : 만화
+등급 : 전체 관람가</desc>
+    <category lang="kr">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -13497,7 +13508,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730120000 +0900" stop="20180730145000 +0900" channel="281">
+  <programme start="20180730120000 +0900" stop="20180730133000 +0900" channel="281">
     <title lang="kr">풍문으로 들었SHOW</title>
     <desc lang="kr">풍문으로 들었SHOW
 장르 : 연예/오락
@@ -13506,6 +13517,17 @@
     <category lang="en">Show / Game show</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180730133000 +0900" stop="20180730145000 +0900" channel="281">
+    <title lang="kr">사건 상황실</title>
+    <desc lang="kr">사건 상황실
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20180730145000 +0900" stop="20180730162000 +0900" channel="281">
@@ -13597,8 +13619,8 @@
     </rating>
   </programme>
   <programme start="20180731020000 +0900" stop="20180731030000 +0900" channel="281">
-    <title lang="kr">서민 갑부</title>
-    <desc lang="kr">서민 갑부
+    <title lang="kr">채널A스페셜 우주탈출</title>
+    <desc lang="kr">채널A스페셜 우주탈출
 장르 : 교양/정보
 등급 : 전체 관람가</desc>
     <category lang="kr">교양/정보</category>
@@ -13608,8 +13630,8 @@
     </rating>
   </programme>
   <programme start="20180731030000 +0900" stop="20180731040000 +0900" channel="281">
-    <title lang="kr">서민 갑부</title>
-    <desc lang="kr">서민 갑부
+    <title lang="kr">채널A스페셜 우주탈출</title>
+    <desc lang="kr">채널A스페셜 우주탈출
 장르 : 교양/정보
 등급 : 전체 관람가</desc>
     <category lang="kr">교양/정보</category>
@@ -13618,26 +13640,15 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180731040000 +0900" stop="20180731043000 +0900" channel="281">
-    <title lang="kr">채널A스페셜 위험에 처한 오랑우탄들을 만나다</title>
-    <desc lang="kr">채널A스페셜 위험에 처한 오랑우탄들을 만나다
+  <programme start="20180731040000 +0900" stop="20180731050000 +0900" channel="281">
+    <title lang="kr">채널A스페셜 나사가 밝히지 않은 파일들</title>
+    <desc lang="kr">채널A스페셜 나사가 밝히지 않은 파일들
 장르 : 시사/다큐
-등급 : 전체 관람가</desc>
+등급 : 12세 이상 관람가</desc>
     <category lang="kr">시사/다큐</category>
     <category lang="en">Documentary</category>
     <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180731043000 +0900" stop="20180731050000 +0900" channel="281">
-    <title lang="kr">채널A스페셜 위험에 처한 오랑우탄들을 만나다</title>
-    <desc lang="kr">채널A스페셜 위험에 처한 오랑우탄들을 만나다
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20180731050000 +0900" stop="20180731053000 +0900" channel="281">
@@ -13651,31 +13662,20 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180731053000 +0900" stop="20180731060000 +0900" channel="281">
-    <title lang="kr">채널A스페셜 헬로우 월드</title>
-    <desc lang="kr">채널A스페셜 헬로우 월드
-장르 : 교양/정보
+  <programme start="20180731053000 +0900" stop="20180731070000 +0900" channel="281">
+    <title lang="kr">나는 몸신이다</title>
+    <desc lang="kr">나는 몸신이다
+장르 : 연예/오락
 등급 : 12세 이상 관람가</desc>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180731060000 +0900" stop="20180731070000 +0900" channel="281">
-    <title lang="kr">특별기획 당신을 위협하는 만성염증의 습격</title>
-    <desc lang="kr">특별기획 당신을 위협하는 만성염증의 습격
-장르 : 교양/정보
-등급 : 전체 관람가</desc>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
   <programme start="20180731070000 +0900" stop="20180731073000 +0900" channel="281">
-    <title lang="kr">프리파라 3</title>
-    <desc lang="kr">프리파라 3
+    <title lang="kr">토이캅</title>
+    <desc lang="kr">토이캅
 장르 : 만화
 등급 : 전체 관람가</desc>
     <category lang="kr">만화</category>
@@ -13685,8 +13685,8 @@
     </rating>
   </programme>
   <programme start="20180731073000 +0900" stop="20180731080000 +0900" channel="281">
-    <title lang="kr">프리파라 3</title>
-    <desc lang="kr">프리파라 3
+    <title lang="kr">토이캅</title>
+    <desc lang="kr">토이캅
 장르 : 만화
 등급 : 전체 관람가</desc>
     <category lang="kr">만화</category>
@@ -13729,8 +13729,8 @@
     </rating>
   </programme>
   <programme start="20180731120000 +0900" stop="20180731133000 +0900" channel="281">
-    <title lang="kr">나만 믿고 따라와, 도시어부</title>
-    <desc lang="kr">나만 믿고 따라와, 도시어부
+    <title lang="kr">아재 감성 느와르 아빠본색</title>
+    <desc lang="kr">아재 감성 느와르 아빠본색
 장르 : 연예/오락
 등급 : 12세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
@@ -13740,14 +13740,14 @@
     </rating>
   </programme>
   <programme start="20180731133000 +0900" stop="20180731145000 +0900" channel="281">
-    <title lang="kr">이제 만나러 갑니다</title>
-    <desc lang="kr">이제 만나러 갑니다
-장르 : 연예/오락
-등급 : 12세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
+    <title lang="kr">사건 상황실</title>
+    <desc lang="kr">사건 상황실
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
     <rating system="KMRB">
-      <value>12세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20180731145000 +0900" stop="20180731162000 +0900" channel="281">
@@ -13795,12 +13795,12 @@
     </rating>
   </programme>
   <programme start="20180731202000 +0900" stop="20180731213000 +0900" channel="281">
-    <title lang="kr">서민 갑부</title>
-    <desc lang="kr">서민 갑부
-장르 : 교양/정보
+    <title lang="kr">독점공개 태국 소년 축구단 구출 작전</title>
+    <desc lang="kr">독점공개 태국 소년 축구단 구출 작전
+장르 : 시사/다큐
 등급 : 전체 관람가</desc>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -13860,53 +13860,42 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801040000 +0900" stop="20180801043000 +0900" channel="281">
-    <title lang="kr">채널A스페셜 위험에 처한 오랑우탄들을 만나다</title>
-    <desc lang="kr">채널A스페셜 위험에 처한 오랑우탄들을 만나다
+  <programme start="20180801040000 +0900" stop="20180801050000 +0900" channel="281">
+    <title lang="kr">채널A스페셜 나사가 밝히지 않은 파일들</title>
+    <desc lang="kr">채널A스페셜 나사가 밝히지 않은 파일들
 장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801043000 +0900" stop="20180801050000 +0900" channel="281">
-    <title lang="kr">채널A스페셜 위험에 처한 오랑우탄들을 만나다</title>
-    <desc lang="kr">채널A스페셜 위험에 처한 오랑우탄들을 만나다
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801050000 +0900" stop="20180801053000 +0900" channel="281">
-    <title lang="kr">채널A스페셜 헬로우 월드</title>
-    <desc lang="kr">채널A스페셜 헬로우 월드
-장르 : 교양/정보
 등급 : 12세 이상 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801050000 +0900" stop="20180801060000 +0900" channel="281">
+    <title lang="kr">채널A스페셜 우주탈출</title>
+    <desc lang="kr">채널A스페셜 우주탈출
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
     <category lang="kr">교양/정보</category>
     <category lang="en">Arts / Culture (without music)</category>
     <rating system="KMRB">
-      <value>12세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801053000 +0900" stop="20180801070000 +0900" channel="281">
-    <title lang="kr">나는 몸신이다</title>
-    <desc lang="kr">나는 몸신이다
-장르 : 연예/오락
-등급 : 12세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
+  <programme start="20180801060000 +0900" stop="20180801070000 +0900" channel="281">
+    <title lang="kr">채널A스페셜 산시성: 중국의 위대한 관문</title>
+    <desc lang="kr">채널A스페셜 산시성: 중국의 위대한 관문
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
     <rating system="KMRB">
-      <value>12세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20180801070000 +0900" stop="20180801073000 +0900" channel="281">
-    <title lang="kr">프리파라 3</title>
-    <desc lang="kr">프리파라 3
+    <title lang="kr">토이캅</title>
+    <desc lang="kr">토이캅
 장르 : 만화
 등급 : 전체 관람가</desc>
     <category lang="kr">만화</category>
@@ -13916,8 +13905,8 @@
     </rating>
   </programme>
   <programme start="20180801073000 +0900" stop="20180801080000 +0900" channel="281">
-    <title lang="kr">프리파라 3</title>
-    <desc lang="kr">프리파라 3
+    <title lang="kr">토이캅</title>
+    <desc lang="kr">토이캅
 장르 : 만화
 등급 : 전체 관람가</desc>
     <category lang="kr">만화</category>
@@ -13971,14 +13960,14 @@
     </rating>
   </programme>
   <programme start="20180801133000 +0900" stop="20180801145000 +0900" channel="281">
-    <title lang="kr">아재 감성 느와르 아빠본색</title>
-    <desc lang="kr">아재 감성 느와르 아빠본색
-장르 : 연예/오락
-등급 : 12세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
+    <title lang="kr">사건 상황실</title>
+    <desc lang="kr">사건 상황실
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
     <rating system="KMRB">
-      <value>12세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20180801145000 +0900" stop="20180801162000 +0900" channel="281">
@@ -19150,7 +19139,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801021000 +0900" stop="20180801030000 +0900" channel="121">
+  <programme start="20180801021000 +0900" stop="20180801034000 +0900" channel="121">
     <title lang="kr">더 콜</title>
     <desc lang="kr">더 콜
 장르 : 연예/오락
@@ -19161,7 +19150,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801030000 +0900" stop="20180801034000 +0900" channel="121">
+  <programme start="20180801034000 +0900" stop="20180801041000 +0900" channel="121">
     <title lang="kr">M2 스페셜 MPD 직캠</title>
     <desc lang="kr">M2 스페셜 MPD 직캠
 장르 : 연예/오락
@@ -19172,51 +19161,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801034000 +0900" stop="20180801051000 +0900" channel="121">
-    <title lang="kr">너의 목소리가 보여 시즌4</title>
-    <desc lang="kr">너의 목소리가 보여 시즌4
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801051000 +0900" stop="20180801064000 +0900" channel="121">
-    <title lang="kr">더 콜</title>
-    <desc lang="kr">더 콜
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801064000 +0900" stop="20180801081000 +0900" channel="121">
-    <title lang="kr">너의 목소리가 보여 시즌5</title>
-    <desc lang="kr">너의 목소리가 보여 시즌5
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801081000 +0900" stop="20180801094000 +0900" channel="121">
-    <title lang="kr">더 콜</title>
-    <desc lang="kr">더 콜
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801094000 +0900" stop="20180801120000 +0900" channel="121">
+  <programme start="20180801041000 +0900" stop="20180801064000 +0900" channel="121">
     <title lang="kr">프로듀스48</title>
     <desc lang="kr">프로듀스48
 장르 : 연예/오락
@@ -19227,7 +19172,40 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801120000 +0900" stop="20180801135000 +0900" channel="121">
+  <programme start="20180801064000 +0900" stop="20180801075000 +0900" channel="121">
+    <title lang="kr">달려라 방탄</title>
+    <desc lang="kr">달려라 방탄
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801075000 +0900" stop="20180801092000 +0900" channel="121">
+    <title lang="kr">더 콜</title>
+    <desc lang="kr">더 콜
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801092000 +0900" stop="20180801115000 +0900" channel="121">
+    <title lang="kr">프로듀스48</title>
+    <desc lang="kr">프로듀스48
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801115000 +0900" stop="20180801133000 +0900" channel="121">
     <title lang="kr">M COUNTDOWN</title>
     <desc lang="kr">M COUNTDOWN
 장르 : 음악
@@ -19238,29 +19216,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801135000 +0900" stop="20180801143000 +0900" channel="121">
-    <title lang="kr">MPD Music Talk (SNS/메신저)</title>
-    <desc lang="kr">MPD Music Talk (SNS/메신저)
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801143000 +0900" stop="20180801154000 +0900" channel="121">
-    <title lang="kr">작전명 에이티즈</title>
-    <desc lang="kr">작전명 에이티즈
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801154000 +0900" stop="20180801171000 +0900" channel="121">
+  <programme start="20180801133000 +0900" stop="20180801150000 +0900" channel="121">
     <title lang="kr">러브캐처</title>
     <desc lang="kr">러브캐처
 장르 : 연예/오락
@@ -19271,7 +19227,18 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801171000 +0900" stop="20180801180000 +0900" channel="121">
+  <programme start="20180801150000 +0900" stop="20180801173000 +0900" channel="121">
+    <title lang="kr">프로듀스48</title>
+    <desc lang="kr">프로듀스48
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801173000 +0900" stop="20180801180000 +0900" channel="121">
     <title lang="kr">Daily Music Talk (SMS)</title>
     <desc lang="kr">Daily Music Talk (SMS)
 장르 : 연예/오락
@@ -19293,9 +19260,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801191000 +0900" stop="20180801213000 +0900" channel="121">
-    <title lang="kr">프로듀스48</title>
-    <desc lang="kr">프로듀스48
+  <programme start="20180801191000 +0900" stop="20180801204000 +0900" channel="121">
+    <title lang="kr">러브캐처</title>
+    <desc lang="kr">러브캐처
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
@@ -19304,13 +19271,13 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801213000 +0900" stop="20180801215000 +0900" channel="121">
-    <title lang="kr">더 콜 HOT CLIP</title>
-    <desc lang="kr">더 콜 HOT CLIP
-장르 : 연예/오락
+  <programme start="20180801204000 +0900" stop="20180801215000 +0900" channel="121">
+    <title lang="kr">Live on M (SMS)</title>
+    <desc lang="kr">Live on M (SMS)
+장르 : 음악
 등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
+    <category lang="kr">음악</category>
+    <category lang="en">Music / Ballet / Dance</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -20768,8 +20735,8 @@
     </rating>
   </programme>
   <programme start="20180801010000 +0900" stop="20180801020000 +0900" channel="238">
-    <title lang="kr">언더웨어</title>
-    <desc lang="kr">언더웨어
+    <title lang="kr">더마픽스 콜라겐 오인트크림 클렌저</title>
+    <desc lang="kr">더마픽스 콜라겐 오인트크림 클렌저
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20778,9 +20745,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801020000 +0900" stop="20180801030000 +0900" channel="238">
-    <title lang="kr">재방송</title>
-    <desc lang="kr">재방송
+  <programme start="20180801020000 +0900" stop="20180801022500 +0900" channel="238">
+    <title lang="kr">라포프 블라우스</title>
+    <desc lang="kr">라포프 블라우스
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20789,9 +20756,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801030000 +0900" stop="20180801033500 +0900" channel="238">
-    <title lang="kr">재방송</title>
-    <desc lang="kr">재방송
+  <programme start="20180801022500 +0900" stop="20180801025500 +0900" channel="238">
+    <title lang="kr">레쁘띠뜨 티셔츠 세트</title>
+    <desc lang="kr">레쁘띠뜨 티셔츠 세트
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20800,7 +20767,29 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801033500 +0900" stop="20180801040500 +0900" channel="238">
+  <programme start="20180801025500 +0900" stop="20180801031000 +0900" channel="238">
+    <title lang="kr">마리타후리나이넨 원피스</title>
+    <desc lang="kr">마리타후리나이넨 원피스
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="kr">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801031000 +0900" stop="20180801032500 +0900" channel="238">
+    <title lang="kr">컬쳐콜 자켓</title>
+    <desc lang="kr">컬쳐콜 자켓
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="kr">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801032500 +0900" stop="20180801035500 +0900" channel="238">
     <title lang="kr">고객만족 정보세상</title>
     <desc lang="kr">고객만족 정보세상
 장르 : 홈쇼핑
@@ -20811,9 +20800,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801040500 +0900" stop="20180801050500 +0900" channel="238">
-    <title lang="kr">재방송</title>
-    <desc lang="kr">재방송
+  <programme start="20180801035500 +0900" stop="20180801042500 +0900" channel="238">
+    <title lang="kr">크레모텍 빔프로젝트</title>
+    <desc lang="kr">크레모텍 빔프로젝트
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20822,9 +20811,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801050500 +0900" stop="20180801053000 +0900" channel="238">
-    <title lang="kr">재방송</title>
-    <desc lang="kr">재방송
+  <programme start="20180801042500 +0900" stop="20180801052500 +0900" channel="238">
+    <title lang="kr">에이프릴스킨 쿠션</title>
+    <desc lang="kr">에이프릴스킨 쿠션
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20833,9 +20822,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801053000 +0900" stop="20180801060000 +0900" channel="238">
-    <title lang="kr">상생 스튜디오</title>
-    <desc lang="kr">상생 스튜디오
+  <programme start="20180801052500 +0900" stop="20180801061500 +0900" channel="238">
+    <title lang="kr">아이넥스 식기건조대</title>
+    <desc lang="kr">아이넥스 식기건조대
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20844,9 +20833,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801060000 +0900" stop="20180801071500 +0900" channel="238">
-    <title lang="kr">언더웨어</title>
-    <desc lang="kr">언더웨어
+  <programme start="20180801061500 +0900" stop="20180801071500 +0900" channel="238">
+    <title lang="kr">팔레오 노니 파우더</title>
+    <desc lang="kr">팔레오 노니 파우더
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20855,20 +20844,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801071500 +0900" stop="20180801081500 +0900" channel="238">
-    <title lang="kr">컨템포러리</title>
-    <desc lang="kr">컨템포러리
-장르 : 홈쇼핑
-등급 : 전체 관람가</desc>
-    <category lang="kr">홈쇼핑</category>
-    <category lang="en">Advertisement / Shopping</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801081500 +0900" stop="20180801092500 +0900" channel="238">
-    <title lang="kr">언더웨어</title>
-    <desc lang="kr">언더웨어
+  <programme start="20180801071500 +0900" stop="20180801092500 +0900" channel="238">
+    <title lang="kr">카시바디 베스트외 3건</title>
+    <desc lang="kr">카시바디 베스트외 3건
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20878,8 +20856,8 @@
     </rating>
   </programme>
   <programme start="20180801092500 +0900" stop="20180801102500 +0900" channel="238">
-    <title lang="kr">생활용품</title>
-    <desc lang="kr">생활용품
+    <title lang="kr">이롬 닥터모링가 클렌즈 파우더</title>
+    <desc lang="kr">이롬 닥터모링가 클렌즈 파우더
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20889,8 +20867,8 @@
     </rating>
   </programme>
   <programme start="20180801102500 +0900" stop="20180801113500 +0900" channel="238">
-    <title lang="kr">이미용용품</title>
-    <desc lang="kr">이미용용품
+    <title lang="kr">시크릿뮤즈 커버팩트</title>
+    <desc lang="kr">시크릿뮤즈 커버팩트
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20900,8 +20878,8 @@
     </rating>
   </programme>
   <programme start="20180801113500 +0900" stop="20180801124000 +0900" channel="238">
-    <title lang="kr">슈즈</title>
-    <desc lang="kr">슈즈
+    <title lang="kr">소파스킨스 소파커버</title>
+    <desc lang="kr">소파스킨스 소파커버
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20911,8 +20889,8 @@
     </rating>
   </programme>
   <programme start="20180801124000 +0900" stop="20180801134000 +0900" channel="238">
-    <title lang="kr">가구리빙</title>
-    <desc lang="kr">가구리빙
+    <title lang="kr">센스맘 스마트 테이블</title>
+    <desc lang="kr">센스맘 스마트 테이블
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20922,8 +20900,8 @@
     </rating>
   </programme>
   <programme start="20180801134000 +0900" stop="20180801144000 +0900" channel="238">
-    <title lang="kr">생활용품</title>
-    <desc lang="kr">생활용품
+    <title lang="kr">메디타임 바톡신 리프팅 마스크</title>
+    <desc lang="kr">메디타임 바톡신 리프팅 마스크
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20933,8 +20911,8 @@
     </rating>
   </programme>
   <programme start="20180801144000 +0900" stop="20180801154000 +0900" channel="238">
-    <title lang="kr">보험</title>
-    <desc lang="kr">보험
+    <title lang="kr">슬림앤칼로티 포스콜린굿나잇</title>
+    <desc lang="kr">슬림앤칼로티 포스콜린굿나잇
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20944,8 +20922,8 @@
     </rating>
   </programme>
   <programme start="20180801154000 +0900" stop="20180801164000 +0900" channel="238">
-    <title lang="kr">일반식품</title>
-    <desc lang="kr">일반식품
+    <title lang="kr">LG 전기레인지 렌탈</title>
+    <desc lang="kr">LG 전기레인지 렌탈
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20955,8 +20933,8 @@
     </rating>
   </programme>
   <programme start="20180801164000 +0900" stop="20180801174000 +0900" channel="238">
-    <title lang="kr">보험</title>
-    <desc lang="kr">보험
+    <title lang="kr">후무사 자두 외 1건</title>
+    <desc lang="kr">후무사 자두 외 1건
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20966,8 +20944,8 @@
     </rating>
   </programme>
   <programme start="20180801174000 +0900" stop="20180801184000 +0900" channel="238">
-    <title lang="kr">THE CHEF</title>
-    <desc lang="kr">THE CHEF
+    <title lang="kr">테팔 후라이팬</title>
+    <desc lang="kr">테팔 후라이팬
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20977,8 +20955,8 @@
     </rating>
   </programme>
   <programme start="20180801184000 +0900" stop="20180801194000 +0900" channel="238">
-    <title lang="kr">주방단품</title>
-    <desc lang="kr">주방단품
+    <title lang="kr">일월 쿨젤매트</title>
+    <desc lang="kr">일월 쿨젤매트
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20988,8 +20966,8 @@
     </rating>
   </programme>
   <programme start="20180801194000 +0900" stop="20180801204000 +0900" channel="238">
-    <title lang="kr">가구리빙</title>
-    <desc lang="kr">가구리빙
+    <title lang="kr">위니아 에어컨</title>
+    <desc lang="kr">위니아 에어컨
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -20999,8 +20977,8 @@
     </rating>
   </programme>
   <programme start="20180801204000 +0900" stop="20180801214500 +0900" channel="238">
-    <title lang="kr">색조화장품</title>
-    <desc lang="kr">색조화장품
+    <title lang="kr">대형가전</title>
+    <desc lang="kr">대형가전
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -21010,8 +20988,8 @@
     </rating>
   </programme>
   <programme start="20180801214500 +0900" stop="20180801224500 +0900" channel="238">
-    <title lang="kr">금융상품</title>
-    <desc lang="kr">금융상품
+    <title lang="kr">크로커다일 브라팬티외 5건</title>
+    <desc lang="kr">크로커다일 브라팬티외 5건
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -21020,9 +20998,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801224500 +0900" stop="20180801234500 +0900" channel="238">
-    <title lang="kr">슈즈</title>
-    <desc lang="kr">슈즈
+  <programme start="20180801224500 +0900" stop="20180801235000 +0900" channel="238">
+    <title lang="kr">이데베논 앰플</title>
+    <desc lang="kr">이데베논 앰플
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -22439,7 +22417,73 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801015000 +0900" stop="20180801025000 +0900" channel="148">
+  <programme start="20180801015000 +0900" stop="20180801033000 +0900" channel="148">
+    <title lang="kr">도깨비</title>
+    <desc lang="kr">도깨비
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801033000 +0900" stop="20180801043000 +0900" channel="148">
+    <title lang="kr">밥블레스유</title>
+    <desc lang="kr">밥블레스유
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801043000 +0900" stop="20180801052000 +0900" channel="148">
+    <title lang="kr">다 해먹는 요리학교 : 오늘 뭐 먹지?</title>
+    <desc lang="kr">다 해먹는 요리학교 : 오늘 뭐 먹지?
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801052000 +0900" stop="20180801063000 +0900" channel="148">
+    <title lang="kr">원나잇 푸드트립:언리미티드</title>
+    <desc lang="kr">원나잇 푸드트립:언리미티드
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801063000 +0900" stop="20180801073000 +0900" channel="148">
+    <title lang="kr">여기 GO</title>
+    <desc lang="kr">여기 GO
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801073000 +0900" stop="20180801083000 +0900" channel="148">
+    <title lang="kr">여기 GO</title>
+    <desc lang="kr">여기 GO
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801083000 +0900" stop="20180801100000 +0900" channel="148">
     <title lang="kr">서울메이트</title>
     <desc lang="kr">서울메이트
 장르 : 연예/오락
@@ -22450,29 +22494,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801025000 +0900" stop="20180801035000 +0900" channel="148">
-    <title lang="kr">여기 GO</title>
-    <desc lang="kr">여기 GO
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801035000 +0900" stop="20180801045000 +0900" channel="148">
-    <title lang="kr">여기 GO</title>
-    <desc lang="kr">여기 GO
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801045000 +0900" stop="20180801060000 +0900" channel="148">
+  <programme start="20180801100000 +0900" stop="20180801112000 +0900" channel="148">
     <title lang="kr">원나잇 푸드트립:언리미티드</title>
     <desc lang="kr">원나잇 푸드트립:언리미티드
 장르 : 연예/오락
@@ -22483,117 +22505,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801060000 +0900" stop="20180801071000 +0900" channel="148">
-    <title lang="kr">원나잇 푸드트립:언리미티드</title>
-    <desc lang="kr">원나잇 푸드트립:언리미티드
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801071000 +0900" stop="20180801081000 +0900" channel="148">
-    <title lang="kr">밥블레스유</title>
-    <desc lang="kr">밥블레스유
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801081000 +0900" stop="20180801091000 +0900" channel="148">
-    <title lang="kr">여기 GO</title>
-    <desc lang="kr">여기 GO
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801091000 +0900" stop="20180801101000 +0900" channel="148">
-    <title lang="kr">밥블레스유</title>
-    <desc lang="kr">밥블레스유
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801101000 +0900" stop="20180801112000 +0900" channel="148">
-    <title lang="kr">원나잇 푸드트립:언리미티드</title>
-    <desc lang="kr">원나잇 푸드트립:언리미티드
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801112000 +0900" stop="20180801120000 +0900" channel="148">
-    <title lang="kr">고독한 미식가 시즌6</title>
-    <desc lang="kr">고독한 미식가 시즌6
-장르 : 드라마
-등급 : 12세 이상 관람가</desc>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801120000 +0900" stop="20180801134000 +0900" channel="148">
-    <title lang="kr">도깨비</title>
-    <desc lang="kr">도깨비
-장르 : 드라마
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801134000 +0900" stop="20180801152000 +0900" channel="148">
-    <title lang="kr">도깨비</title>
-    <desc lang="kr">도깨비
-장르 : 드라마
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801152000 +0900" stop="20180801172000 +0900" channel="148">
-    <title lang="kr">윤식당 2</title>
-    <desc lang="kr">윤식당 2
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801172000 +0900" stop="20180801184000 +0900" channel="148">
-    <title lang="kr">원나잇 푸드트립:언리미티드</title>
-    <desc lang="kr">원나잇 푸드트립:언리미티드
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801184000 +0900" stop="20180801202000 +0900" channel="148">
+  <programme start="20180801112000 +0900" stop="20180801130000 +0900" channel="148">
     <title lang="kr">섬총사 2</title>
     <desc lang="kr">섬총사 2
 장르 : 연예/오락
@@ -22604,15 +22516,59 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801202000 +0900" stop="20180801210000 +0900" channel="148">
-    <title lang="kr">고독한 미식가 시즌6</title>
-    <desc lang="kr">고독한 미식가 시즌6
-장르 : 드라마
+  <programme start="20180801130000 +0900" stop="20180801145000 +0900" channel="148">
+    <title lang="kr">윤식당 2</title>
+    <desc lang="kr">윤식당 2
+장르 : 연예/오락
 등급 : 12세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801145000 +0900" stop="20180801163000 +0900" channel="148">
+    <title lang="kr">서울메이트</title>
+    <desc lang="kr">서울메이트
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801163000 +0900" stop="20180801180000 +0900" channel="148">
+    <title lang="kr">도깨비</title>
+    <desc lang="kr">도깨비
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
     <category lang="kr">드라마</category>
     <category lang="en">Movie / Drama</category>
     <rating system="KMRB">
-      <value>12세 이상 관람가</value>
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801180000 +0900" stop="20180801193000 +0900" channel="148">
+    <title lang="kr">식샤를 합시다 3</title>
+    <desc lang="kr">식샤를 합시다 3
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801193000 +0900" stop="20180801210000 +0900" channel="148">
+    <title lang="kr">식샤를 합시다 3</title>
+    <desc lang="kr">식샤를 합시다 3
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20180801210000 +0900" stop="20180801215000 +0900" channel="148">
@@ -22626,26 +22582,15 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801215000 +0900" stop="20180801225000 +0900" channel="148">
-    <title lang="kr">여기 GO</title>
-    <desc lang="kr">여기 GO
+  <programme start="20180801215000 +0900" stop="20180801232000 +0900" channel="148">
+    <title lang="kr">서울메이트</title>
+    <desc lang="kr">서울메이트
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801225000 +0900" stop="20180801233000 +0900" channel="148">
-    <title lang="kr">고독한 미식가 시즌6</title>
-    <desc lang="kr">고독한 미식가 시즌6
-장르 : 드라마
-등급 : 12세 이상 관람가</desc>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20180730000000 +0900" stop="20180730010000 +0900" channel="313">
@@ -24310,8 +24255,8 @@
     </rating>
   </programme>
   <programme start="20180801011500 +0900" stop="20180801013500 +0900" channel="84">
-    <title lang="kr">레포츠의류</title>
-    <desc lang="kr">레포츠의류
+    <title lang="kr">건강식품</title>
+    <desc lang="kr">건강식품
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24365,8 +24310,8 @@
     </rating>
   </programme>
   <programme start="20180801025600 +0900" stop="20180801031600 +0900" channel="84">
-    <title lang="kr">트렌드의류</title>
-    <desc lang="kr">트렌드의류
+    <title lang="kr">생활용품</title>
+    <desc lang="kr">생활용품
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24387,8 +24332,8 @@
     </rating>
   </programme>
   <programme start="20180801033700 +0900" stop="20180801035700 +0900" channel="84">
-    <title lang="kr">레포츠의류</title>
-    <desc lang="kr">레포츠의류
+    <title lang="kr">의류</title>
+    <desc lang="kr">의류
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24453,8 +24398,8 @@
     </rating>
   </programme>
   <programme start="20180801053900 +0900" stop="20180801060000 +0900" channel="84">
-    <title lang="kr">침구</title>
-    <desc lang="kr">침구
+    <title lang="kr">트렌드의류</title>
+    <desc lang="kr">트렌드의류
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24486,8 +24431,8 @@
     </rating>
   </programme>
   <programme start="20180801064000 +0900" stop="20180801070000 +0900" channel="84">
-    <title lang="kr">의류</title>
-    <desc lang="kr">의류
+    <title lang="kr">트렌드의류</title>
+    <desc lang="kr">트렌드의류
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24497,8 +24442,8 @@
     </rating>
   </programme>
   <programme start="20180801070000 +0900" stop="20180801072100 +0900" channel="84">
-    <title lang="kr">레포츠의류</title>
-    <desc lang="kr">레포츠의류
+    <title lang="kr">생활가전</title>
+    <desc lang="kr">생활가전
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24508,8 +24453,8 @@
     </rating>
   </programme>
   <programme start="20180801072100 +0900" stop="20180801074100 +0900" channel="84">
-    <title lang="kr">생활용품</title>
-    <desc lang="kr">생활용품
+    <title lang="kr">침구</title>
+    <desc lang="kr">침구
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24519,8 +24464,8 @@
     </rating>
   </programme>
   <programme start="20180801074100 +0900" stop="20180801080200 +0900" channel="84">
-    <title lang="kr">일반식품</title>
-    <desc lang="kr">일반식품
+    <title lang="kr">생활가전</title>
+    <desc lang="kr">생활가전
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24541,8 +24486,8 @@
     </rating>
   </programme>
   <programme start="20180801084200 +0900" stop="20180801092300 +0900" channel="84">
-    <title lang="kr">의류</title>
-    <desc lang="kr">의류
+    <title lang="kr">속옷</title>
+    <desc lang="kr">속옷
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24552,8 +24497,8 @@
     </rating>
   </programme>
   <programme start="20180801092300 +0900" stop="20180801100400 +0900" channel="84">
-    <title lang="kr">보석</title>
-    <desc lang="kr">보석
+    <title lang="kr">이미용</title>
+    <desc lang="kr">이미용
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24563,8 +24508,8 @@
     </rating>
   </programme>
   <programme start="20180801100400 +0900" stop="20180801104400 +0900" channel="84">
-    <title lang="kr">의류</title>
-    <desc lang="kr">의류
+    <title lang="kr">생활가전</title>
+    <desc lang="kr">생활가전
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24574,8 +24519,8 @@
     </rating>
   </programme>
   <programme start="20180801104400 +0900" stop="20180801112500 +0900" channel="84">
-    <title lang="kr">침구</title>
-    <desc lang="kr">침구
+    <title lang="kr">속옷</title>
+    <desc lang="kr">속옷
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24607,8 +24552,8 @@
     </rating>
   </programme>
   <programme start="20180801120500 +0900" stop="20180801122600 +0900" channel="84">
-    <title lang="kr">주방용품</title>
-    <desc lang="kr">주방용품
+    <title lang="kr">침구</title>
+    <desc lang="kr">침구
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24629,8 +24574,8 @@
     </rating>
   </programme>
   <programme start="20180801124600 +0900" stop="20180801130600 +0900" channel="84">
-    <title lang="kr">침구</title>
-    <desc lang="kr">침구
+    <title lang="kr">일반식품</title>
+    <desc lang="kr">일반식품
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24640,8 +24585,8 @@
     </rating>
   </programme>
   <programme start="20180801130600 +0900" stop="20180801132600 +0900" channel="84">
-    <title lang="kr">보석</title>
-    <desc lang="kr">보석
+    <title lang="kr">속옷</title>
+    <desc lang="kr">속옷
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24651,8 +24596,8 @@
     </rating>
   </programme>
   <programme start="20180801132600 +0900" stop="20180801134600 +0900" channel="84">
-    <title lang="kr">침구</title>
-    <desc lang="kr">침구
+    <title lang="kr">생활용품</title>
+    <desc lang="kr">생활용품
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24673,8 +24618,8 @@
     </rating>
   </programme>
   <programme start="20180801140600 +0900" stop="20180801142600 +0900" channel="84">
-    <title lang="kr">이미용</title>
-    <desc lang="kr">이미용
+    <title lang="kr">트렌드의류</title>
+    <desc lang="kr">트렌드의류
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24695,8 +24640,8 @@
     </rating>
   </programme>
   <programme start="20180801144600 +0900" stop="20180801150600 +0900" channel="84">
-    <title lang="kr">잡화</title>
-    <desc lang="kr">잡화
+    <title lang="kr">생활용품</title>
+    <desc lang="kr">생활용품
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24706,8 +24651,8 @@
     </rating>
   </programme>
   <programme start="20180801150600 +0900" stop="20180801152600 +0900" channel="84">
-    <title lang="kr">이미용</title>
-    <desc lang="kr">이미용
+    <title lang="kr">일반식품</title>
+    <desc lang="kr">일반식품
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24717,8 +24662,8 @@
     </rating>
   </programme>
   <programme start="20180801152600 +0900" stop="20180801154600 +0900" channel="84">
-    <title lang="kr">의류</title>
-    <desc lang="kr">의류
+    <title lang="kr">생활가전</title>
+    <desc lang="kr">생활가전
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24728,8 +24673,8 @@
     </rating>
   </programme>
   <programme start="20180801154600 +0900" stop="20180801160600 +0900" channel="84">
-    <title lang="kr">의류</title>
-    <desc lang="kr">의류
+    <title lang="kr">레포츠의류</title>
+    <desc lang="kr">레포츠의류
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24739,8 +24684,8 @@
     </rating>
   </programme>
   <programme start="20180801160600 +0900" stop="20180801164600 +0900" channel="84">
-    <title lang="kr">생활용품</title>
-    <desc lang="kr">생활용품
+    <title lang="kr">주방용품</title>
+    <desc lang="kr">주방용품
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24772,8 +24717,8 @@
     </rating>
   </programme>
   <programme start="20180801172700 +0900" stop="20180801174700 +0900" channel="84">
-    <title lang="kr">잡화</title>
-    <desc lang="kr">잡화
+    <title lang="kr">일반식품</title>
+    <desc lang="kr">일반식품
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -24849,28 +24794,6 @@
     </rating>
   </programme>
   <programme start="20180801211100 +0900" stop="20180801215100 +0900" channel="84">
-    <title lang="kr">생활가전</title>
-    <desc lang="kr">생활가전
-장르 : 홈쇼핑
-등급 : 전체 관람가</desc>
-    <category lang="kr">홈쇼핑</category>
-    <category lang="en">Advertisement / Shopping</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801215100 +0900" stop="20180801223200 +0900" channel="84">
-    <title lang="kr">트렌드의류</title>
-    <desc lang="kr">트렌드의류
-장르 : 홈쇼핑
-등급 : 전체 관람가</desc>
-    <category lang="kr">홈쇼핑</category>
-    <category lang="en">Advertisement / Shopping</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801223200 +0900" stop="20180801231200 +0900" channel="84">
     <title lang="kr">레포츠의류</title>
     <desc lang="kr">레포츠의류
 장르 : 홈쇼핑
@@ -24881,9 +24804,31 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
+  <programme start="20180801215100 +0900" stop="20180801223200 +0900" channel="84">
+    <title lang="kr">속옷</title>
+    <desc lang="kr">속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="kr">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801223200 +0900" stop="20180801231200 +0900" channel="84">
+    <title lang="kr">일반가전</title>
+    <desc lang="kr">일반가전
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="kr">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
   <programme start="20180801231200 +0900" stop="20180801235300 +0900" channel="84">
-    <title lang="kr">여행</title>
-    <desc lang="kr">여행
+    <title lang="kr">속옷</title>
+    <desc lang="kr">속옷
 장르 : 홈쇼핑
 등급 : 전체 관람가</desc>
     <category lang="kr">홈쇼핑</category>
@@ -27164,11 +27109,11 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180731051000 +0900" stop="20180731060000 +0900" channel="147">
+  <programme start="20180731051000 +0900" stop="20180731062000 +0900" channel="147">
     <title lang="kr">O! TV 본 김에 끝까지-응답하라 1994</title>
-    <sub-title lang="kr">1부</sub-title>
+    <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">O! TV 본 김에 끝까지-응답하라 1994
-부제 : 1부
+부제 : 2부
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
@@ -27177,7 +27122,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180731060000 +0900" stop="20180731070000 +0900" channel="147">
+  <programme start="20180731062000 +0900" stop="20180731074000 +0900" channel="147">
     <title lang="kr">둥지탈출 3</title>
     <desc lang="kr">둥지탈출 3
 장르 : 연예/오락
@@ -27188,9 +27133,9 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180731070000 +0900" stop="20180731084000 +0900" channel="147">
-    <title lang="kr">꽃보다 청춘-아이슬란드</title>
-    <desc lang="kr">꽃보다 청춘-아이슬란드
+  <programme start="20180731074000 +0900" stop="20180731084000 +0900" channel="147">
+    <title lang="kr">O! TV 본 김에 끝까지-나의 아저씨</title>
+    <desc lang="kr">O! TV 본 김에 끝까지-나의 아저씨
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
@@ -27221,7 +27166,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180731111000 +0900" stop="20180731123000 +0900" channel="147">
+  <programme start="20180731111000 +0900" stop="20180731124000 +0900" channel="147">
     <title lang="kr">김비서가 왜 그럴까</title>
     <desc lang="kr">김비서가 왜 그럴까
 장르 : 드라마
@@ -27232,7 +27177,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180731123000 +0900" stop="20180731140000 +0900" channel="147">
+  <programme start="20180731124000 +0900" stop="20180731140000 +0900" channel="147">
     <title lang="kr">오늘 내일</title>
     <desc lang="kr">오늘 내일
 장르 : 연예/오락
@@ -27244,19 +27189,19 @@
     </rating>
   </programme>
   <programme start="20180731140000 +0900" stop="20180731152000 +0900" channel="147">
-    <title lang="kr">어쩌다 어른</title>
-    <desc lang="kr">어쩌다 어른
+    <title lang="kr">스트리트 푸드파이터 미식로드</title>
+    <desc lang="kr">스트리트 푸드파이터 미식로드
 장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
+등급 : 12세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20180731152000 +0900" stop="20180731164000 +0900" channel="147">
-    <title lang="kr">수요미식회</title>
-    <desc lang="kr">수요미식회
+    <title lang="kr">어쩌다 어른</title>
+    <desc lang="kr">어쩌다 어른
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
@@ -27343,28 +27288,17 @@
     </rating>
   </programme>
   <programme start="20180801013000 +0900" stop="20180801025000 +0900" channel="147">
-    <title lang="kr">비밀의 숲</title>
-    <desc lang="kr">비밀의 숲
-장르 : 드라마
+    <title lang="kr">수요미식회</title>
+    <desc lang="kr">수요미식회
+장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20180801025000 +0900" stop="20180801041000 +0900" channel="147">
-    <title lang="kr">비밀의 숲</title>
-    <desc lang="kr">비밀의 숲
-장르 : 드라마
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801041000 +0900" stop="20180801052000 +0900" channel="147">
     <title lang="kr">인생술집</title>
     <desc lang="kr">인생술집
 장르 : 연예/오락
@@ -27375,7 +27309,18 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801052000 +0900" stop="20180801055000 +0900" channel="147">
+  <programme start="20180801041000 +0900" stop="20180801053000 +0900" channel="147">
+    <title lang="kr">어쩌다 어른</title>
+    <desc lang="kr">어쩌다 어른
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801053000 +0900" stop="20180801062000 +0900" channel="147">
     <title lang="kr">스트리트 푸드파이터 미식로드</title>
     <desc lang="kr">스트리트 푸드파이터 미식로드
 장르 : 연예/오락
@@ -27386,26 +27331,28 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801055000 +0900" stop="20180801071000 +0900" channel="147">
-    <title lang="kr">수미네 반찬</title>
-    <desc lang="kr">수미네 반찬
+  <programme start="20180801062000 +0900" stop="20180801074000 +0900" channel="147">
+    <title lang="kr">풀 뜯어먹는 소리</title>
+    <desc lang="kr">풀 뜯어먹는 소리
+장르 : 연예/오락
+등급 : 전체 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801074000 +0900" stop="20180801084000 +0900" channel="147">
+    <title lang="kr">O! TV 본 김에 끝까지-슬기로운 감빵생활</title>
+    <sub-title lang="kr">1부</sub-title>
+    <desc lang="kr">O! TV 본 김에 끝까지-슬기로운 감빵생활
+부제 : 1부
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801071000 +0900" stop="20180801084000 +0900" channel="147">
-    <title lang="kr">오늘 내일</title>
-    <desc lang="kr">오늘 내일
-장르 : 연예/오락
-등급 : 12세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20180801084000 +0900" stop="20180801094000 +0900" channel="147">
@@ -27419,7 +27366,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801094000 +0900" stop="20180801110000 +0900" channel="147">
+  <programme start="20180801094000 +0900" stop="20180801111000 +0900" channel="147">
     <title lang="kr">미스터 션샤인</title>
     <desc lang="kr">미스터 션샤인
 장르 : 드라마
@@ -27430,7 +27377,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801110000 +0900" stop="20180801122000 +0900" channel="147">
+  <programme start="20180801111000 +0900" stop="20180801124000 +0900" channel="147">
     <title lang="kr">미스터 션샤인</title>
     <desc lang="kr">미스터 션샤인
 장르 : 드라마
@@ -27441,7 +27388,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801122000 +0900" stop="20180801132000 +0900" channel="147">
+  <programme start="20180801124000 +0900" stop="20180801134000 +0900" channel="147">
     <title lang="kr">프리한19</title>
     <desc lang="kr">프리한19
 장르 : 연예/오락
@@ -27452,9 +27399,20 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801132000 +0900" stop="20180801142000 +0900" channel="147">
-    <title lang="kr">O! TV 본 김에 끝까지-마더</title>
-    <desc lang="kr">O! TV 본 김에 끝까지-마더
+  <programme start="20180801134000 +0900" stop="20180801150000 +0900" channel="147">
+    <title lang="kr">집밥 백선생 3</title>
+    <desc lang="kr">집밥 백선생 3
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801150000 +0900" stop="20180801160000 +0900" channel="147">
+    <title lang="kr">프리한19</title>
+    <desc lang="kr">프리한19
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
@@ -27463,18 +27421,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801142000 +0900" stop="20180801161000 +0900" channel="147">
-    <title lang="kr">삼시세끼 바다목장편</title>
-    <desc lang="kr">삼시세끼 바다목장편
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801161000 +0900" stop="20180801173000 +0900" channel="147">
+  <programme start="20180801160000 +0900" stop="20180801173000 +0900" channel="147">
     <title lang="kr">식샤를 합시다 2</title>
     <desc lang="kr">식샤를 합시다 2
 장르 : 드라마
@@ -30576,13 +30523,24 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801040000 +0900" stop="20180801063000 +0900" channel="98">
-    <title lang="kr">2018 LPGA KPMG 위민스 PGA 챔피언십</title>
-    <desc lang="kr">2018 LPGA KPMG 위민스 PGA 챔피언십
+  <programme start="20180801040000 +0900" stop="20180801060000 +0900" channel="98">
+    <title lang="kr">2018 U.S. 주니어 아마추어</title>
+    <desc lang="kr">2018 U.S. 주니어 아마추어
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
     <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801060000 +0900" stop="20180801063000 +0900" channel="98">
+    <title lang="kr">사담기</title>
+    <desc lang="kr">사담기
+장르 : 연예/오락
+등급 : 전체 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -30620,9 +30578,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801100000 +0900" stop="20180801113000 +0900" channel="98">
-    <title lang="kr">2017 아버딘 에셋 매니지먼트 레이디스 스코티시 오픈...</title>
-    <desc lang="kr">2017 아버딘 에셋 매니지먼트 레이디스 스코티시 오픈...
+  <programme start="20180801100000 +0900" stop="20180801103000 +0900" channel="98">
+    <title lang="kr">미녀 삼총사</title>
+    <desc lang="kr">미녀 삼총사
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -30631,9 +30589,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801113000 +0900" stop="20180801140000 +0900" channel="98">
-    <title lang="kr">2018 LPGA 손베리 크릭 LPGA 클래식</title>
-    <desc lang="kr">2018 LPGA 손베리 크릭 LPGA 클래식
+  <programme start="20180801103000 +0900" stop="20180801140000 +0900" channel="98">
+    <title lang="kr">2015 LPGA 리코 위민스 브리티시 오픈</title>
+    <desc lang="kr">2015 LPGA 리코 위민스 브리티시 오픈
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -30643,8 +30601,8 @@
     </rating>
   </programme>
   <programme start="20180801140000 +0900" stop="20180801150000 +0900" channel="98">
-    <title lang="kr">제6회 제주삼다수배 아마추어 골프 대회</title>
-    <desc lang="kr">제6회 제주삼다수배 아마추어 골프 대회
+    <title lang="kr">2018 LPGA 탐구생활</title>
+    <desc lang="kr">2018 LPGA 탐구생활
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -30676,8 +30634,8 @@
     </rating>
   </programme>
   <programme start="20180801173000 +0900" stop="20180801190000 +0900" channel="98">
-    <title lang="kr">2017 LPGA ANA 인스퍼레이션H/L</title>
-    <desc lang="kr">2017 LPGA ANA 인스퍼레이션H/L
+    <title lang="kr">2018 LPGA  아버딘 스탠다드 인베스트먼트 레이디스  ...</title>
+    <desc lang="kr">2018 LPGA 아버딘 스탠다드 인베스트먼트 레이디스 ...
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -30686,9 +30644,20 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801190000 +0900" stop="20180801210000 +0900" channel="98">
-    <title lang="kr">2011 LPGA U.S. 여자 오픈</title>
-    <desc lang="kr">2011 LPGA U.S. 여자 오픈
+  <programme start="20180801190000 +0900" stop="20180801193000 +0900" channel="98">
+    <title lang="kr">미녀 삼총사</title>
+    <desc lang="kr">미녀 삼총사
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801193000 +0900" stop="20180801210000 +0900" channel="98">
+    <title lang="kr">2012 LPGA 리코 위민스 브리티시 오픈 H/L</title>
+    <desc lang="kr">2012 LPGA 리코 위민스 브리티시 오픈 H/L
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -31214,7 +31183,18 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730013000 +0900" stop="20180730020000 +0900" channel="107">
+  <programme start="20180730013000 +0900" stop="20180730035000 +0900" channel="107">
+    <title lang="kr">2018 신한은행 마이카 KBO리그</title>
+    <desc lang="kr">2018 신한은행 마이카 KBO리그
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180730035000 +0900" stop="20180730041500 +0900" channel="107">
     <title lang="kr">야구N 컬렉션 %232</title>
     <desc lang="kr">야구N 컬렉션 %232
 장르 : 스포츠
@@ -31225,7 +31205,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730020000 +0900" stop="20180730040000 +0900" channel="107">
+  <programme start="20180730041500 +0900" stop="20180730061000 +0900" channel="107">
     <title lang="kr">FIFA 월드컵 러시아 2018</title>
     <desc lang="kr">FIFA 월드컵 러시아 2018
 장르 : 스포츠
@@ -31236,7 +31216,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730040000 +0900" stop="20180730050000 +0900" channel="107">
+  <programme start="20180730061000 +0900" stop="20180730062000 +0900" channel="107">
     <title lang="kr">걸어서 세계속으로</title>
     <desc lang="kr">걸어서 세계속으로
 장르 : 시사/다큐
@@ -31247,7 +31227,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730050000 +0900" stop="20180730060000 +0900" channel="107">
+  <programme start="20180730062000 +0900" stop="20180730063000 +0900" channel="107">
     <title lang="kr">걸어서 세계속으로</title>
     <desc lang="kr">걸어서 세계속으로
 장르 : 시사/다큐
@@ -31258,7 +31238,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180730060000 +0900" stop="20180730080000 +0900" channel="107">
+  <programme start="20180730063000 +0900" stop="20180730080000 +0900" channel="107">
     <title lang="kr">2018 신한은행 마이카 KBO리그</title>
     <desc lang="kr">2018 신한은행 마이카 KBO리그
 장르 : 스포츠
@@ -33402,7 +33382,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801000000 +0900" stop="20180801005000 +0900" channel="117">
+  <programme start="20180801000000 +0900" stop="20180801004500 +0900" channel="117">
     <title lang="kr">엄마의 바다</title>
     <desc lang="kr">엄마의 바다
 장르 : 드라마
@@ -33413,7 +33393,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801005000 +0900" stop="20180801014000 +0900" channel="117">
+  <programme start="20180801004500 +0900" stop="20180801014000 +0900" channel="117">
     <title lang="kr">전원일기</title>
     <desc lang="kr">전원일기
 장르 : 드라마
@@ -33479,7 +33459,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801041000 +0900" stop="20180801050000 +0900" channel="117">
+  <programme start="20180801041000 +0900" stop="20180801050500 +0900" channel="117">
     <title lang="kr">KTV특집</title>
     <desc lang="kr">KTV특집
 장르 : 시사/다큐
@@ -33490,7 +33470,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801050000 +0900" stop="20180801053000 +0900" channel="117">
+  <programme start="20180801050500 +0900" stop="20180801053000 +0900" channel="117">
     <title lang="kr">희망로드 세계로</title>
     <desc lang="kr">희망로드 세계로
 장르 : 시사/다큐
@@ -33524,19 +33504,30 @@
     </rating>
   </programme>
   <programme start="20180801060000 +0900" stop="20180801063000 +0900" channel="117">
-    <title lang="kr">산이 좋아 물이 좋아</title>
-    <desc lang="kr">산이 좋아 물이 좋아
-장르 : 시사/다큐
+    <title lang="kr">강원도로 떠나는 맛있는 여행</title>
+    <desc lang="kr">강원도로 떠나는 맛있는 여행
+장르 : 취미/레저
 등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
+    <category lang="kr">취미/레저</category>
+    <category lang="en">Leisure hobbies</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801063000 +0900" stop="20180801070000 +0900" channel="117">
+  <programme start="20180801063000 +0900" stop="20180801065500 +0900" channel="117">
     <title lang="kr">산애진미</title>
     <desc lang="kr">산애진미
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801065500 +0900" stop="20180801070000 +0900" channel="117">
+    <title lang="kr">UHD영상미학</title>
+    <desc lang="kr">UHD영상미학
 장르 : 교양/정보
 등급 : 전체 관람가</desc>
     <category lang="kr">교양/정보</category>
@@ -33589,9 +33580,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801090000 +0900" stop="20180801093000 +0900" channel="117">
-    <title lang="kr">힐링다큐 한국의 섬</title>
-    <desc lang="kr">힐링다큐 한국의 섬
+  <programme start="20180801090000 +0900" stop="20180801095000 +0900" channel="117">
+    <title lang="kr">박혜진의 정책%26amp;</title>
+    <desc lang="kr">박혜진의 정책%26amp;
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
@@ -33600,13 +33591,13 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801093000 +0900" stop="20180801100000 +0900" channel="117">
-    <title lang="kr">방방곡곡 알알이가 났네</title>
-    <desc lang="kr">방방곡곡 알알이가 났네
-장르 : 교양/정보
+  <programme start="20180801095000 +0900" stop="20180801100000 +0900" channel="117">
+    <title lang="kr">5분다큐 사람</title>
+    <desc lang="kr">5분다큐 사람
+장르 : 시사/다큐
 등급 : 전체 관람가</desc>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -33647,8 +33638,8 @@
     </rating>
   </programme>
   <programme start="20180801130000 +0900" stop="20180801135500 +0900" channel="117">
-    <title lang="kr">KTV특별기획</title>
-    <desc lang="kr">KTV특별기획
+    <title lang="kr">KTV특집</title>
+    <desc lang="kr">KTV특집
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
@@ -33658,12 +33649,12 @@
     </rating>
   </programme>
   <programme start="20180801135500 +0900" stop="20180801140000 +0900" channel="117">
-    <title lang="kr">UHD영상미학</title>
-    <desc lang="kr">UHD영상미학
-장르 : 교양/정보
+    <title lang="kr">영상기록 "서울, 시간을 품다"</title>
+    <desc lang="kr">영상기록 "서울, 시간을 품다"
+장르 : 시사/다큐
 등급 : 전체 관람가</desc>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -33679,9 +33670,20 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801143000 +0900" stop="20180801150000 +0900" channel="117">
+  <programme start="20180801143000 +0900" stop="20180801145500 +0900" channel="117">
     <title lang="kr">나를 바꾸는 30분</title>
     <desc lang="kr">나를 바꾸는 30분
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801145500 +0900" stop="20180801150000 +0900" channel="117">
+    <title lang="kr">UHD영상미학</title>
+    <desc lang="kr">UHD영상미학
 장르 : 교양/정보
 등급 : 전체 관람가</desc>
     <category lang="kr">교양/정보</category>
@@ -33748,8 +33750,8 @@
     </rating>
   </programme>
   <programme start="20180801182000 +0900" stop="20180801183000 +0900" channel="117">
-    <title lang="kr">영상기록 "서울, 시간을 품다"</title>
-    <desc lang="kr">영상기록 "서울, 시간을 품다"
+    <title lang="kr">5분다큐 사람</title>
+    <desc lang="kr">5분다큐 사람
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
@@ -33758,24 +33760,13 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801183000 +0900" stop="20180801185500 +0900" channel="117">
+  <programme start="20180801183000 +0900" stop="20180801190000 +0900" channel="117">
     <title lang="kr">나를 바꾸는 30분</title>
     <desc lang="kr">나를 바꾸는 30분
 장르 : 교양/정보
 등급 : 전체 관람가</desc>
     <category lang="kr">교양/정보</category>
     <category lang="en">Arts / Culture (without music)</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801185500 +0900" stop="20180801190000 +0900" channel="117">
-    <title lang="kr">다시 보는 대한늬우스</title>
-    <desc lang="kr">다시 보는 대한늬우스
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -33824,7 +33815,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801210000 +0900" stop="20180801213000 +0900" channel="117">
+  <programme start="20180801210000 +0900" stop="20180801212500 +0900" channel="117">
     <title lang="kr">엄마의 바다</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">엄마의 바다
@@ -33837,7 +33828,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801213000 +0900" stop="20180801215500 +0900" channel="117">
+  <programme start="20180801212500 +0900" stop="20180801215500 +0900" channel="117">
     <title lang="kr">엄마의 바다</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">엄마의 바다
@@ -33876,7 +33867,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801225000 +0900" stop="20180801232000 +0900" channel="117">
+  <programme start="20180801225000 +0900" stop="20180801231500 +0900" channel="117">
     <title lang="kr">사랑이 뭐길래</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">사랑이 뭐길래
@@ -33889,7 +33880,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801232000 +0900" stop="20180801234000 +0900" channel="117">
+  <programme start="20180801231500 +0900" stop="20180801234500 +0900" channel="117">
     <title lang="kr">사랑이 뭐길래</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">사랑이 뭐길래
@@ -46429,7 +46420,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801050000 +0900" stop="20180801070000 +0900" channel="124">
+  <programme start="20180801050000 +0900" stop="20180801062000 +0900" channel="124">
     <title lang="kr">Good Morning MBC MUSIC</title>
     <desc lang="kr">Good Morning MBC MUSIC
 장르 : 음악
@@ -46440,20 +46431,20 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801070000 +0900" stop="20180801080000 +0900" channel="124">
-    <title lang="kr">세븐틴 어느 멋진 날-13소년 표류기</title>
-    <desc lang="kr">세븐틴 어느 멋진 날-13소년 표류기
-장르 : 연예/오락
+  <programme start="20180801062000 +0900" stop="20180801072000 +0900" channel="124">
+    <title lang="kr">피크닉 라이브 소풍</title>
+    <desc lang="kr">피크닉 라이브 소풍
+장르 : 음악
 등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
+    <category lang="kr">음악</category>
+    <category lang="en">Music / Ballet / Dance</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801080000 +0900" stop="20180801090000 +0900" channel="124">
-    <title lang="kr">세븐틴 어느 멋진 날-13소년 표류기</title>
-    <desc lang="kr">세븐틴 어느 멋진 날-13소년 표류기
+  <programme start="20180801072000 +0900" stop="20180801090000 +0900" channel="124">
+    <title lang="kr">나 혼자 산다</title>
+    <desc lang="kr">나 혼자 산다
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
@@ -46507,12 +46498,12 @@
     </rating>
   </programme>
   <programme start="20180801150000 +0900" stop="20180801154000 +0900" channel="124">
-    <title lang="kr">MBC MUSIC HIT SONGS</title>
-    <desc lang="kr">MBC MUSIC HIT SONGS
-장르 : 음악
+    <title lang="kr">신동의 킥서비스</title>
+    <desc lang="kr">신동의 킥서비스
+장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
-    <category lang="kr">음악</category>
-    <category lang="en">Music / Ballet / Dance</category>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -46528,9 +46519,20 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801172000 +0900" stop="20180801190000 +0900" channel="124">
-    <title lang="kr">어서와~ 한국은 처음이지?</title>
-    <desc lang="kr">어서와~ 한국은 처음이지?
+  <programme start="20180801172000 +0900" stop="20180801175000 +0900" channel="124">
+    <title lang="kr">뮤직시그널</title>
+    <desc lang="kr">뮤직시그널
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801175000 +0900" stop="20180801190000 +0900" channel="124">
+    <title lang="kr">섹션 TV 연예통신</title>
+    <desc lang="kr">섹션 TV 연예통신
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
@@ -46550,9 +46552,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801203000 +0900" stop="20180801220000 +0900" channel="124">
-    <title lang="kr">비디오 스타</title>
-    <desc lang="kr">비디오 스타
+  <programme start="20180801203000 +0900" stop="20180801210000 +0900" channel="124">
+    <title lang="kr">쇼챔 직캠</title>
+    <desc lang="kr">쇼챔 직캠
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
@@ -46561,15 +46563,15 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801220000 +0900" stop="20180801230000 +0900" channel="124">
-    <title lang="kr">쇼 챔피언 비하인드</title>
-    <desc lang="kr">쇼 챔피언 비하인드
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
+  <programme start="20180801210000 +0900" stop="20180801230000 +0900" channel="124">
+    <title lang="kr">복면가왕</title>
+    <desc lang="kr">복면가왕
+장르 : 음악
+등급 : 12세 이상 관람가</desc>
+    <category lang="kr">음악</category>
+    <category lang="en">Music / Ballet / Dance</category>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20180730004000 +0900" stop="20180730060000 +0900" channel="282">
@@ -59299,18 +59301,18 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801060000 +0900" stop="20180801065500 +0900" channel="142">
-    <title lang="kr">마이 매드 뷰티 다이어리</title>
-    <desc lang="kr">마이 매드 뷰티 다이어리
+  <programme start="20180801060000 +0900" stop="20180801063000 +0900" channel="142">
+    <title lang="kr">네버슬립</title>
+    <desc lang="kr">네버슬립
 장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
+등급 : 전체 관람가</desc>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801065500 +0900" stop="20180801080000 +0900" channel="142">
+  <programme start="20180801063000 +0900" stop="20180801072500 +0900" channel="142">
     <title lang="kr">비밀언니</title>
     <desc lang="kr">비밀언니
 장르 : 연예/오락
@@ -59321,18 +59323,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801080000 +0900" stop="20180801081500 +0900" channel="142">
-    <title lang="kr">상사세끼</title>
-    <desc lang="kr">상사세끼
-장르 : 드라마
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20180801081500 +0900" stop="20180801084000 +0900" channel="142">
+  <programme start="20180801072500 +0900" stop="20180801075000 +0900" channel="142">
     <title lang="kr">팔로잉 가비</title>
     <desc lang="kr">팔로잉 가비
 장르 : 교양/정보
@@ -59343,9 +59334,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801084000 +0900" stop="20180801095000 +0900" channel="142">
-    <title lang="kr">힘쎈여자 도봉순</title>
-    <desc lang="kr">힘쎈여자 도봉순
+  <programme start="20180801075000 +0900" stop="20180801085500 +0900" channel="142">
+    <title lang="kr">청춘시대 2</title>
+    <desc lang="kr">청춘시대 2
 장르 : 드라마
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">드라마</category>
@@ -59354,9 +59345,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801095000 +0900" stop="20180801110000 +0900" channel="142">
-    <title lang="kr">힘쎈여자 도봉순</title>
-    <desc lang="kr">힘쎈여자 도봉순
+  <programme start="20180801085500 +0900" stop="20180801100000 +0900" channel="142">
+    <title lang="kr">청춘시대 2</title>
+    <desc lang="kr">청춘시대 2
 장르 : 드라마
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">드라마</category>
@@ -59365,20 +59356,20 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801110000 +0900" stop="20180801112500 +0900" channel="142">
-    <title lang="kr">상사세끼</title>
-    <desc lang="kr">상사세끼
-장르 : 드라마
+  <programme start="20180801100000 +0900" stop="20180801102500 +0900" channel="142">
+    <title lang="kr">팔로잉 가비</title>
+    <desc lang="kr">팔로잉 가비
+장르 : 교양/정보
 등급 : 15세 이상 관람가</desc>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801112500 +0900" stop="20180801122500 +0900" channel="142">
-    <title lang="kr">인간이 왜 그래</title>
-    <desc lang="kr">인간이 왜 그래
+  <programme start="20180801102500 +0900" stop="20180801112000 +0900" channel="142">
+    <title lang="kr">마이 매드 뷰티 다이어리</title>
+    <desc lang="kr">마이 매드 뷰티 다이어리
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
@@ -59387,7 +59378,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801122500 +0900" stop="20180801132500 +0900" channel="142">
+  <programme start="20180801112000 +0900" stop="20180801122000 +0900" channel="142">
     <title lang="kr">비밀언니</title>
     <desc lang="kr">비밀언니
 장르 : 연예/오락
@@ -59398,7 +59389,18 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801132500 +0900" stop="20180801150000 +0900" channel="142">
+  <programme start="20180801122000 +0900" stop="20180801132000 +0900" channel="142">
+    <title lang="kr">인간이 왜 그래</title>
+    <desc lang="kr">인간이 왜 그래
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20180801132000 +0900" stop="20180801150000 +0900" channel="142">
     <title lang="kr">팀 셰프</title>
     <desc lang="kr">팀 셰프
 장르 : 연예/오락
@@ -59409,7 +59411,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801150000 +0900" stop="20180801151500 +0900" channel="142">
+  <programme start="20180801150000 +0900" stop="20180801151000 +0900" channel="142">
     <title lang="kr">미친 딜리버리 2</title>
     <desc lang="kr">미친 딜리버리 2
 장르 : 연예/오락
@@ -59420,9 +59422,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801151500 +0900" stop="20180801163000 +0900" channel="142">
-    <title lang="kr">힘쎈여자 도봉순</title>
-    <desc lang="kr">힘쎈여자 도봉순
+  <programme start="20180801151000 +0900" stop="20180801162000 +0900" channel="142">
+    <title lang="kr">청춘시대 2</title>
+    <desc lang="kr">청춘시대 2
 장르 : 드라마
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">드라마</category>
@@ -59431,9 +59433,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801163000 +0900" stop="20180801175000 +0900" channel="142">
-    <title lang="kr">힘쎈여자 도봉순</title>
-    <desc lang="kr">힘쎈여자 도봉순
+  <programme start="20180801162000 +0900" stop="20180801173500 +0900" channel="142">
+    <title lang="kr">청춘시대 2</title>
+    <desc lang="kr">청춘시대 2
 장르 : 드라마
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">드라마</category>
@@ -59442,9 +59444,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801175000 +0900" stop="20180801182000 +0900" channel="142">
-    <title lang="kr">상사세끼</title>
-    <desc lang="kr">상사세끼
+  <programme start="20180801173500 +0900" stop="20180801183000 +0900" channel="142">
+    <title lang="kr">와카코와 술 시즌3</title>
+    <desc lang="kr">와카코와 술 시즌3
 장르 : 드라마
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">드라마</category>
@@ -59453,7 +59455,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801182000 +0900" stop="20180801203000 +0900" channel="142">
+  <programme start="20180801183000 +0900" stop="20180801203000 +0900" channel="142">
     <title lang="kr">이방인</title>
     <desc lang="kr">이방인
 장르 : 연예/오락
@@ -59486,7 +59488,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20180801223000 +0900" stop="20180801233500 +0900" channel="142">
+  <programme start="20180801223000 +0900" stop="20180801233000 +0900" channel="142">
     <title lang="kr">미미샵</title>
     <desc lang="kr">미미샵
 장르 : 연예/오락
@@ -81773,16 +81775,14 @@
     </rating>
   </programme>
   <programme start="20180801020000 +0900" stop="20180801030000 +0900" channel="138">
-    <title lang="kr">2차 세계 대전,지옥의 잠수함2</title>
-    <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">2차 세계 대전,지옥의 잠수함2
-부제 : 1부
+    <title lang="kr">거대 참치를 잡아라! 위키드 튜나 7</title>
+    <desc lang="kr">거대 참치를 잡아라! 위키드 튜나 7
 장르 : 시사/다큐
-등급 : 15세 이상 관람가</desc>
+등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
     <category lang="en">Documentary</category>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20180801030000 +0900" stop="20180801040000 +0900" channel="138">
@@ -81797,8 +81797,8 @@
     </rating>
   </programme>
   <programme start="20180801040000 +0900" stop="20180801050000 +0900" channel="138">
-    <title lang="kr">거대 참치를 잡아라! 위키드 튜나 7</title>
-    <desc lang="kr">거대 참치를 잡아라! 위키드 튜나 7
+    <title lang="kr">코끼리 산, 아나말라이</title>
+    <desc lang="kr">코끼리 산, 아나말라이
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
@@ -81808,14 +81808,14 @@
     </rating>
   </programme>
   <programme start="20180801050000 +0900" stop="20180801060000 +0900" channel="138">
-    <title lang="kr">에덴의 동쪽</title>
-    <desc lang="kr">에덴의 동쪽
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
+    <title lang="kr">아시아 헌터</title>
+    <desc lang="kr">아시아 헌터
+장르 : 교양/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
     <rating system="KMRB">
-      <value>전체 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20180801060000 +0900" stop="20180801063000 +0900" channel="138">
@@ -81918,8 +81918,8 @@
     </rating>
   </programme>
   <programme start="20180801143000 +0900" stop="20180801153000 +0900" channel="138">
-    <title lang="kr">1부 - 분노한 하마들</title>
-    <desc lang="kr">1부 - 분노한 하마들
+    <title lang="kr">아프리카의 암살자</title>
+    <desc lang="kr">아프리카의 암살자
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
@@ -81929,8 +81929,8 @@
     </rating>
   </programme>
   <programme start="20180801153000 +0900" stop="20180801163000 +0900" channel="138">
-    <title lang="kr">2부 - 통제 불능의 맹수들</title>
-    <desc lang="kr">2부 - 통제 불능의 맹수들
+    <title lang="kr">아프리카의 암살자</title>
+    <desc lang="kr">아프리카의 암살자
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
@@ -81962,19 +81962,19 @@
     </rating>
   </programme>
   <programme start="20180801190000 +0900" stop="20180801200000 +0900" channel="138">
-    <title lang="kr">최후의 대결: 상어 vs 포식자</title>
-    <desc lang="kr">최후의 대결: 상어 vs 포식자
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
+    <title lang="kr">아시아 헌터</title>
+    <desc lang="kr">아시아 헌터
+장르 : 교양/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
     <rating system="KMRB">
-      <value>전체 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20180801200000 +0900" stop="20180801210000 +0900" channel="138">
-    <title lang="kr">1부 - 분노한 하마들</title>
-    <desc lang="kr">1부 - 분노한 하마들
+    <title lang="kr">아프리카의 암살자</title>
+    <desc lang="kr">아프리카의 암살자
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
@@ -81984,8 +81984,8 @@
     </rating>
   </programme>
   <programme start="20180801210000 +0900" stop="20180801220000 +0900" channel="138">
-    <title lang="kr">2부 - 통제 불능의 맹수들</title>
-    <desc lang="kr">2부 - 통제 불능의 맹수들
+    <title lang="kr">아프리카의 암살자</title>
+    <desc lang="kr">아프리카의 암살자
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
@@ -100377,12 +100377,12 @@
     </rating>
   </programme>
   <programme start="20180801010000 +0900" stop="20180801020000 +0900" channel="106">
-    <title lang="kr">다큐세상</title>
-    <desc lang="kr">다큐세상
-장르 : 시사/다큐
+    <title lang="kr">김영철의 동네 한 바퀴</title>
+    <desc lang="kr">김영철의 동네 한 바퀴
+장르 : 교양/정보
 등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
